@@ -57,7 +57,7 @@ This project goes beyond a simple website by integrating a robust **MySQL databa
 ### 🏠 Home
 A welcoming landing page featuring the mission and a call to action for donations.
 
-![image_alt](image_path)
+![image_alt](<img width="1763" height="964" alt="image" src="https://github.com/user-attachments/assets/99fe0f4b-a4d1-4746-ab64-fe629b28188a" />)
 
 ### 🏥 Rescue & Medical Care
 Details the rescue process and provides a form for emergency reporting.
