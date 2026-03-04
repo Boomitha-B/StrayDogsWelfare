@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rescue & Emergency Care | Stray Dogs Welfare</title>
+    <meta name="description"
+        content="Emergency rescue and medical care for injured and abandoned stray dogs. Report a rescue and help save a life.">
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">🐾 Stray Dogs Welfare</div>
+            <ul class="nav-links">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="rescue.html" class="active">Rescue</a></li>
+                <li><a href="adoption.html">Adoption</a></li>
+                <li><a href="sterilization.html">Sterilization</a></li>
+                <li><a href="donate.html">Donate</a></li>
+                <li><a href="volunteer.html">Volunteer</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="rescue-page">
+
+        <!-- HERO -->
+        <section class="rescue-hero fade-in">
+            <h1>Emergency Rescue for Stray Dogs</h1>
+            <p>
+                Every minute matters. We respond to emergency calls for injured, sick, and abandoned stray dogs
+                and provide immediate medical care.
+            </p>
+        </section>
+
+        <!-- RESCUE PROCESS -->
+        <section class="rescue-steps">
+            <h2 class="fade-in">How Our Rescue Process Works</h2>
+
+            <div class="steps-grid">
+                <div class="step-card fade-in">
+                    <h3>📞 Rescue Call</h3>
+                    <p>We receive emergency rescue calls from the community.</p>
+                </div>
+
+                <div class="step-card fade-in delay">
+                    <h3>🚑 On-Site Rescue</h3>
+                    <p>Our rescue team reaches the location and safely rescues the dog.</p>
+                </div>
+
+                <div class="step-card fade-in delay-more">
+                    <h3>🏥 Medical Care</h3>
+                    <p>The dog receives urgent treatment, surgery, or medication.</p>
+                </div>
+
+                <div class="step-card fade-in delay-more">
+                    <h3>💙 Recovery & Care</h3>
+                    <p>The dog is nurtured until fully recovered and safe.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- RESCUE IMAGES -->
+        <section class="rescue-gallery">
+            <img src="../images/rescue1.jpg" alt="Stray dog rescue in progress" class="fade-in">
+            <img src="../images/rescue2.jpg" alt="Rescued dog recovering" class="fade-in delay">
+        </section>
+
+        <!-- CTA -->
+        <section class="rescue-cta fade-in delay-more"
+            style="background: #fff; max-width: 600px; margin: auto; padding: 40px; border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+            <h2 style="text-align: center; margin-bottom: 25px;">Report an Injured Dog</h2>
+            <form id="rescueForm" style="display: flex; flex-direction: column; gap: 15px;">
+                <input type="text" name="reporter_name" placeholder="Your Name" required
+                    style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+                <input type="tel" name="contact_number" placeholder="Contact Number" required
+                    style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+                <input type="text" name="location" placeholder="Exact Location of Dog" required
+                    style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+                <textarea name="description" rows="4" placeholder="Description of Situation / Injury"
+                    style="padding: 12px; border: 1px solid #ccc; border-radius: 8px; font-family: inherit;"></textarea>
+                <button type="submit" class="btn" style="border: none; cursor: pointer;">Report Now</button>
+            </form>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Stray Dogs Welfare. All Rights Reserved.</p>
+    </footer>
+
+<script src="../js/script.js"></script>
+</body>
+
+</html>

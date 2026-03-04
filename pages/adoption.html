@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adoption | Stray Dogs Welfare</title>
+    <meta name="description"
+        content="Adopt a stray dog and give them a loving home. Meet dogs waiting for adoption and start your adoption journey.">
+
+    <link rel="stylesheet" href="../css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">🐾 Stray Dogs Welfare</div>
+            <ul class="nav-links">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="rescue.html">Rescue</a></li>
+                <li><a href="adoption.html" class="active">Adoption</a></li>
+                <li><a href="sterilization.html">Sterilization</a></li>
+                <li><a href="donate.html">Donate</a></li>
+                <li><a href="volunteer.html">Volunteer</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="adoption-page">
+
+        <!-- HERO -->
+        <section class="adoption-hero fade-in">
+            <h1>Give a Dog a Loving Home</h1>
+            <p>
+                Adoption saves lives. Meet our rescued dogs waiting to become part of a loving family.
+            </p>
+        </section>
+
+        <!-- DOG CARDS -->
+        <section class="adoption-grid">
+
+            <div class="dog-card fade-in">
+                <img src="../images/adopt1.jpg" alt="Dog available for adoption">
+                <h3>Bruno</h3>
+                <p>Age: 2 Years • Vaccinated • Friendly</p>
+            </div>
+
+            <div class="dog-card fade-in delay">
+                <img src="../images/adopt2.jpg" alt="Dog available for adoption">
+                <h3>Luna</h3>
+                <p>Age: 1.5 Years • Playful • Loving</p>
+            </div>
+
+            <div class="dog-card fade-in delay-more">
+                <img src="../images/adopt3.jpg" alt="Dog available for adoption">
+                <h3>Max</h3>
+                <p>Age: 3 Years • Calm • House-trained</p>
+            </div>
+            <div class="dog-card fade-in delay-more">
+                <img src="../images/adopt4.jpg" alt="Dog available for adoption">
+                <h3>Bella</h3>
+                <p>Age: 1 Year • Gentle • Playful</p>
+            </div>
+
+
+        </section>
+
+        <!-- CTA -->
+        <section class="adoption-cta fade-in delay-more"
+            style="background: #fff; max-width: 600px; margin: auto; padding: 40px; border-radius: 16px; box-shadow: 0 10px 25px rgba(0,0,0,0.15);">
+            <h2 style="text-align: center; margin-bottom: 25px;">Adopt a Friend</h2>
+            <form id="adoptionForm" style="display: flex; flex-direction: column; gap: 15px;">
+                <input type="text" name="applicant_name" placeholder="Your Name" required
+                    style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+                <input type="email" name="email" placeholder="Your Email" required
+                    style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+                <!-- Added a dropdown to select which dog they want -->
+                <select name="dog_name" required style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+                    <option value="" disabled selected>Select Dog to Adopt</option>
+                    <option value="Bruno">Bruno</option>
+                    <option value="Luna">Luna</option>
+                    <option value="Max">Max</option>
+                    <option value="Bella">Bella</option>
+                    <option value="Other">Other / General Enquiry</option>
+                </select>
+                <button type="submit" class="btn" style="border: none; cursor: pointer;">Submit Application</button>
+            </form>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>© 2026 Stray Dogs Welfare. All Rights Reserved.</p>
+    </footer>
+
+<script src="../js/script.js"></script>
+</body>
+
+</html>
