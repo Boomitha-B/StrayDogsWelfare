@@ -1,5 +1,3 @@
-<img width="1897" height="915" alt="image" src="https://github.com/user-attachments/assets/ad7cf8d3-8224-4fbf-996b-3f7f69339253" /># 🐾 Stray Dogs Welfare - Web Application
-
 <p align="center">
   <b>Full-Stack NGO Platform | Animal Rescue & Care | Community Driven</b><br>
 </p>
@@ -19,7 +17,7 @@
 
 ---
 
-![image_alt](image_path)
+![image_alt](https://raw.githubusercontent.com/Boomitha-B/StrayDogsWelfare/d8a2ab5a2379c1f5c0740f8a7702c3d125f5e02c/Screenshot%202026-03-04%20110031.png)
 
 ## 📌 Table of Contents
 - [📖 About The Project](#-about-the-project)
