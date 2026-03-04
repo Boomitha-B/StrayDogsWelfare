@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  🔗 <b>Live Portfolio:</b> 
+  🔗 <b>Link :</b> 
   <a href="https://boomitha-b.github.io/StrayDogsWelfare/" target="_blank">
+    https://boomitha-b.github.io/StrayDogsWelfare/
   </a>
 </p>
 
