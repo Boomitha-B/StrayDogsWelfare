@@ -1,4 +1,4 @@
-# 🐾 Stray Dogs Welfare - Web Application
+<img width="1897" height="915" alt="image" src="https://github.com/user-attachments/assets/ad7cf8d3-8224-4fbf-996b-3f7f69339253" /># 🐾 Stray Dogs Welfare - Web Application
 
 <p align="center">
   <b>Full-Stack NGO Platform | Animal Rescue & Care | Community Driven</b><br>
@@ -19,7 +19,7 @@
 
 ---
 
-![Banner](docs/screenshots/banner.png)
+![image_alt](image_path)
 
 ## 📌 Table of Contents
 - [📖 About The Project](#-about-the-project)
