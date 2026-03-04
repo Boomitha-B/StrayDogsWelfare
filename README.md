@@ -56,19 +56,23 @@ This project goes beyond a simple website by integrating a robust **MySQL databa
 
 ### 🏠 Home
 A welcoming landing page featuring the mission and a call to action for donations.
-![Homepage](docs/screenshots/homepage.png)
+
+![image_alt](image_path)
 
 ### 🏥 Rescue & Medical Care
 Details the rescue process and provides a form for emergency reporting.
-![Rescue](docs/screenshots/rescue.png)
+
+![image_alt](image_path)
 
 ### 🤝 Volunteer & Community
 A dedicated space for dog lovers to join the cause and manage their interests.
-![Volunteer](docs/screenshots/volunteer.png)
+
+![image_alt](image_path)
 
 ### 💰 Donation Center
 Outlines how funds are utilized and provides a secure contribution interface.
-![Donate](docs/screenshots/donate.png)
+
+![image_alt](image_path)
 
 ---
 
