@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  🔗 <b>Live Portfolio:</b> 
+  <a href="https://boomitha-b.github.io/StrayDogsWelfare/" target="_blank">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Python%20%7C%20Flask%20%7C%20MySQL-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Deployment%20Ready-green?style=for-the-badge" />
