@@ -57,7 +57,7 @@ This project goes beyond a simple website by integrating a robust **MySQL databa
 ### 🏠 Home
 A welcoming landing page featuring the mission and a call to action for donations.
 
-![image_alt](<img width="1763" height="964" alt="image" src="https://github.com/user-attachments/assets/99fe0f4b-a4d1-4746-ab64-fe629b28188a" />)
+![image_alt]([<img width="1763" height="964" alt="image" src="https://github.com/user-attachments/assets/99fe0f4b-a4d1-4746-ab64-fe629b28188a" />](https://github.com/Boomitha-B/StrayDogsWelfare/blob/1a9edafe36faed4ea07709d6f7aea0b5e1a4ea07/about.jpeg))
 
 ### 🏥 Rescue & Medical Care
 Details the rescue process and provides a form for emergency reporting.
