@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Full-Stack NGO Platform | Animal Rescue & Care | Community Driven</b><br>
-  📍 Powered by Flask & MySQL
 </p>
 
 <p align="center">
@@ -35,10 +34,15 @@ This project goes beyond a simple website by integrating a robust **MySQL databa
 
 ## ✨ Key Features
 ✔ **Emergency Rescue Portal**: Instant reporting system for dogs in distress.
+
 ✔ **Volunteer Management**: Streamlined application process for community support.
+
 ✔ **Secure Donation Tracking**: Dedicated module for financial contribution logging.
+
 ✔ **Adoption & Sterilization**: Information and request tracking for animal welfare.
+
 ✔ **Dynamic Notifications**: Interactive UI alerts for form submissions.
+
 ✔ **Database Backed**: Full history of all interactions stored securely.
 
 ---
