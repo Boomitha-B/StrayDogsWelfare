@@ -62,17 +62,17 @@ A welcoming landing page featuring the mission and a call to action for donation
 ### 🏥 Rescue & Medical Care
 Details the rescue process and provides a form for emergency reporting.
 
-![image_alt](image_path)
+![Rescue Page](https://raw.githubusercontent.com/Boomitha-B/StrayDogsWelfare/df3a64527576f3884fa9f657d7ad2b90a3788c77/rescue.jpeg)
 
 ### 🤝 Volunteer & Community
 A dedicated space for dog lovers to join the cause and manage their interests.
 
-![image_alt](image_path)
+![Volunteer Page](https://raw.githubusercontent.com/Boomitha-B/StrayDogsWelfare/df3a64527576f3884fa9f657d7ad2b90a3788c77/volunteer.jpeg)
 
 ### 💰 Donation Center
 Outlines how funds are utilized and provides a secure contribution interface.
 
-![image_alt](image_path)
+![Donate Page](https://raw.githubusercontent.com/Boomitha-B/StrayDogsWelfare/df3a64527576f3884fa9f657d7ad2b90a3788c77/donate.jpeg)
 
 ---
 
