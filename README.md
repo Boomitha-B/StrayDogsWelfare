@@ -131,8 +131,8 @@ The UI follows a **warm and professional** aesthetic, using a palette of earthy 
 ## 📬 Contact
 For collaborations or inquiries:
 - **GitHub**: [@Boomitha-B](https://github.com/Boomitha-B)
-- **LinkedIn**: [Your Profile Link]
-- **Email**: [Your Email Address]
+- **LinkedIn**: [https://www.linkedin.com/in/boomitha-b-948468291/]
+
 
 ---
 © 2026 Stray Dogs Welfare – Making a difference, one rescued soul at a time.
